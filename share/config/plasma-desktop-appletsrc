@@ -141,7 +141,7 @@ zvalue=0
 Order=2
 
 [Containments][1][Applets][4]
-geometry=114,1,1366,34
+geometry=114,1,1394,34
 immutability=1
 plugin=tasks
 zvalue=0
@@ -150,7 +150,7 @@ zvalue=0
 Order=4
 
 [Containments][1][Applets][5]
-geometry=1484,1,34,34
+geometry=1512,1,34,34
 immutability=1
 plugin=showdesktop
 zvalue=0
@@ -159,7 +159,7 @@ zvalue=0
 Order=5
 
 [Containments][1][Applets][6]
-geometry=1522,1,302,34
+geometry=1550,1,274,34
 immutability=1
 plugin=systemtray
 zvalue=0
@@ -190,7 +190,7 @@ plugin=org.kde.notifications
 zvalue=0
 
 [Containments][1][Applets][6][Configuration][Applets][16][PopupApplet]
-DialogHeight=339
+DialogHeight=92
 DialogWidth=362
 
 [Containments][1][Applets][6][Configuration][Applets][2]
