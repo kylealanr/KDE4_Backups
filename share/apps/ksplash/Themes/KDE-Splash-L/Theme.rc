@@ -1,0 +1,9 @@
+[KSplash Theme: KDE-Splash-L]
+Name = Modern KDE Splash
+Description = Animated KDE logo on custom background
+Version = 1.0
+Author = Giovanni Hurtado <xiorone at gmail.com>
+Homepage = https://www.facebook.com/gio.hurtado
+
+# Theme behaviour settings.
+Engine = KSplashQML

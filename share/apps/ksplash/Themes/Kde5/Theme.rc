@@ -1,0 +1,7 @@
+[KSplash Theme: Kde5]
+Name = Kde 5
+Description = Plasma 5 ported Splash Screen
+Version = 0.2
+Author = Alessandro Marques
+Homepage = 
+Engine = KSplashX

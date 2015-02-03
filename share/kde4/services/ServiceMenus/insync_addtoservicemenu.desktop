@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Service
+Encoding=UTF-8
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=all/allfiles;inode/directory;
+Actions=action0;
+X-KDE-Submenu=Add to Insync
+X-KDE-Priority=TopLevel
+
+[Desktop Action action0]
+Exec=insync cm:create_link:107890939156936984125 %u
+Name=kylealanr@gmail.com
+Icon=list-add
+

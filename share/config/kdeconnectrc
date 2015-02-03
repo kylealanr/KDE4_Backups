@@ -1,0 +1,18 @@
+[myself]
+id=47dc219f_4030_40fb_bc12_cf997dc42503
+privateKeyPath=/home/kyle/.kde/share/apps/kdeconnect/key.pem
+
+[trusted_devices][3b8348f81f22e95d]
+deviceName=Nexus 5
+deviceType=phone
+publicKey=-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2CCcO9WSGOF7xlj3gzi5\naZo3m7SBPbOfgnRFSO8JwEsH0X6EllkIYegazOWvlRFhwjdW4trLlXR2dk/cF33L\nO3NSQwLXoeQKQMiucmL8rhocerm+rbQ5MuZchJXaKXqRVzryBADQiWKW+cGj1GTt\nJwFQ4LbjWn1Wo03Uft5Cl1g6BllNTZpyY/MjAbJ3pY824P2E7/XNO5k16f39LJj3\n801/jITRb6wPQnYpCByG6mQgC0tNpDGivmm+QOsVC3oqg18P9S8WZ3NwVF/IBbd8\nh30V201db2kZgmIQLUhwA/eAAs7un/O29Yx0J14LycJqOiQ5fRGPMu9A3giCB5ij\nGQIDAQAB\n-----END PUBLIC KEY-----\n
+
+[trusted_devices][52ecdaa488d73ef9]
+deviceName=A0001
+deviceType=phone
+publicKey=-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2VOM05DSXcKkoopoH7U9\nb3nxHyrmGs9CI2Iy+ULcrDV8hG7w/1n6hLZRwxrDSKd1X6y2M022Cchk+AcU6LMl\nU1PEwosvrNp0KjeSupweN0mxPyglyewTbe9VQUUTC3T3GF/CHhS8F/hn7tOoVJ7W\n6gDmkQSiOpmw1CRvx5V/2P2/FJL4AVZugXOXCtMWh9aD3naI4EjeqY9uOENgAkIq\nFW20da5VIwqPNUg9aTuM9RO3s3UGcDxiL/7wxckXbsVhWDuNJiuLDum2chu6k1Y7\n80vcq5M1ouKPskQIVHZfeuY747pdwu5SzGVf3puhCiziC37wa+Xji62Swi582HGj\nrQIDAQAB\n-----END PUBLIC KEY-----\n
+
+[trusted_devices][d0d13fd1_576b_4402_ab78_ac394debe751]
+deviceName=peppykub
+deviceType=unknown
+publicKey=-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvhRLjtWFeRm8QkUFf5Fk\nKycDZZmJV4BwF+aBmDiLv7b8kPn8PJRYgyFpQqDvM0wWSzamdTSxXR4kbciXaNbQ\nwrN6nSUR+HMPWSp5TGVSQVaqV2+NMmF5I7fTWa9nOl0LiMuGAWmfB2sfrgNOlM7F\n3yHpvzR26ALyCCBvCwzQATsR1ZgphFuAl779U0DYD1ebhiGgC3rMeoVY+8+enf5t\nPBMEvzb0hka1KgqYI8zgLA5WRGMqcOkDzhiUZgikVU3tU+fFxrcbDnXg3BJmyIG5\nwjoMadGF9VVLEb80n8YYRsrFlOCdOd4dfMJxMGwUd8f20CWAHiqVb4lpov3jwDeq\n1QIDAQAB\n-----END PUBLIC KEY-----\n

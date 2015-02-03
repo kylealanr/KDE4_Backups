@@ -1,0 +1,9 @@
+[KSplash Theme: Default]
+Name = Kubuntu Spin
+Description = Kubuntu Spin
+Version = 1.0
+Author = robyshot
+
+
+# Theme behaviour settings.
+Engine = KSplashX

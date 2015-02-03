@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>CodeKde</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=codicem">codicem</author>
+  <homepage>https://opendesktop.org/content/show.php?content=164011</homepage>
+  <licence>2</licence>
+  <version>1.0</version>
+  <rating>74</rating>
+  <downloads>514</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/main.qml</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/main1.qml.back</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/gear2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/user.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/ready.png.back</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/gear3-2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/monitor.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/internet.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/ready.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/ready-1.png.back</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/ready-1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/preferences.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/images/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/main.qml.back</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//CodeKde/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>164011</id>
+  <releasedate>2014-03-20</releasedate>
+  <summary>This is a qml animated splash screen.&#xd;
+to watch video:&#xd;
+http://www.youtube.com/watch?v=niMlC4Y61vc&#xd;
+&#xd;
+Leave your comment</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m164011-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/164011-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/164011-CodeKde.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kubuntu Kromatic</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=DJStarBuck">DJStarBuck</author>
+  <homepage>https://opendesktop.org/content/show.php?content=165445</homepage>
+  <licence>3</licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>108</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/anim5.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/4chrnetwork3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/1disk-manager.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/2rdpreferences-system.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/3plasma.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/description.txt</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/anim1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/anim2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/anim3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/kde.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/anim4.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/1920x1200/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Krokde4splx/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>165445</id>
+  <releasedate>2014-05-27</releasedate>
+  <summary>adapted from http://kde-look.org/content/show.php/Kubuntu+Kromatic?content=165402</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m165445-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/165445-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/165445-Krokde4splx.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>KDE Splash L</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=xiorone">xiorone</author>
+  <homepage>https://opendesktop.org/content/show.php?content=166105</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>175</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/main.qml</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/gear-2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/wallpaper-blur.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/gear-3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/window.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/4.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/5.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/gear-1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/6.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/kde.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/location.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/images/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/kde-look.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//KDE-Splash-L/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>166105</id>
+  <releasedate>2014-08-01</releasedate>
+  <summary>KDE Splash L inspired by Material design, contains gear and animated logo kde, random image each session.&#xd;
+&#xd;
+Wallpaper by Google Android L&#xd;
+&#xd;
+You can vote for this Splash. I hope you enjoy and Thank you very much...</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m166105-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/166105-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/166105-KDE-Splash-L.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kubuntu Spin</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=robyshot">robyshot</author>
+  <homepage>https://opendesktop.org/content/show.php?content=137827</homepage>
+  <licence>0</licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>803</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1024x768/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1024x768/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1024x768/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/800x600/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/800x600/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/800x600/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/640x480/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/640x480/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/640x480/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1280x1024/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1280x1024/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1280x1024/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon3_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon2_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon5_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon6_animX.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon8.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon4_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/description.txt</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon7_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon8_animh.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon6_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon1_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/icon8_anim.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/background.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/1920x1080/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kubuntu Spin/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>137827</id>
+  <releasedate>2013-01-11</releasedate>
+  <summary>A nice spinning Kubuntu logo ksplash theme&#xd;
+&#xd;
+here is a preview&#xd;
+&#xd;
+http://www.youtube.com/watch?v=4Kqpftib83U&#xd;
+&#xd;
+&#xd;
+hope you like it :-)&#xd;
+&#xd;
+&#xd;
+the author of the background image is â Frankieâ &#xd;
+&#xd;
+contact him at &#xd;
+http://simply-the-frankie.deviantart.com/&#xd;
+&#xd;
+(for any use of the background image ask the author's permissions)&#xd;
+&#xd;
+the ubuntu font is released under this license&#xd;
+http://font.ubuntu.com/ufl/&#xd;
+&#xd;
+&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m137827-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/137827-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/137827-Kubuntu Spin.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kde 5 Splash Screen</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=alesandromarkes">alesandromarkes</author>
+  <homepage>https://opendesktop.org/content/show.php?content=167937</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>50</rating>
+  <downloads>303</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/progress1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/progress4.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/progress2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/progress3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/background.jpg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/description.txt</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/transparencia.xcf</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/progress0.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/1600x900/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Kde5/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>167937</id>
+  <releasedate>2014-11-20</releasedate>
+  <summary>Kde 5 Splash Screen ported to Kde 4.</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m167937-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/167937-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/167937-Kde5.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Modern KDE 4 Splash Screen</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=xiorone">xiorone</author>
+  <homepage>https://opendesktop.org/content/show.php?content=163449</homepage>
+  <licence>1</licence>
+  <version>1.0.7</version>
+  <rating>80</rating>
+  <downloads>2031</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/Theme.rc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/main.qml</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/Preview.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/gear2.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/video.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/gear3.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/storage.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/kdegear.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/images.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/lifs.jpg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/folder.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/KDE.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/kde-small-plasma.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/kde-small.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/kde.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/nitrux.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/music.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/KDE-plasma-next.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/gear1.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/images/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/kde-look.png</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//Modern-KDE-Splash-1.0.7/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>163449</id>
+  <releasedate>2014-07-09</releasedate>
+  <summary>Animated KDE KSplash splash screen for plasma theme Oxygen.&#xd;
+Qml is based on Nowardev.&#xd;
+&#xd;
+- The icons were taken from http://malcer.deviantart.com/ and http://ext4.wordpress.com/&#xd;
+&#xd;
+- Wallpaper by http://nitrux.in/&#xd;
+Tested with KDE 4.12.x&#xd;
+&#xd;
+Extract the downloaded KDE splash screen to&#xd;
+~/.kde/share/apps/ksplash/Themes/.&#xd;
+&#xd;
+On Archlinux&#xd;
+&#xd;
+~/.kde4/share/apps/ksplash/Themes/</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m163449-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/163449-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/163449-Modern-KDE-Splash-1.0.7.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

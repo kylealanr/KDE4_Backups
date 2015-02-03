@@ -1,0 +1,5 @@
+[Plugin-org.kde.ActivityManager.VirtualDesktopSwitch]
+desktop-for-=1
+desktop-for-666f070b-1890-4130-96c9-e2c5812f6e3e=1
+desktop-for-9630488e-bfa3-409a-9002-7237c1b3bf05=1
+desktop-for-bbb86ee2-cb3a-4723-b38a-876d78f86fbe=1

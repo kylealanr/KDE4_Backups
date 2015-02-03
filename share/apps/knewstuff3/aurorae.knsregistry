@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Windows 10 like Decoration</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=finaprp">finaprp</author>
+  <homepage>https://opendesktop.org/content/show.php?content=167646</homepage>
+  <licence>2</licence>
+  <version>1.1</version>
+  <rating>53</rating>
+  <downloads>243</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/1.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/maximize.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/KDE-10Flatrc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/decoration.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/.directory</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/metadata.desktop</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/close.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/restore.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/minimize.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//KDE-10Flat/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>167646</id>
+  <releasedate>2014-10-27</releasedate>
+  <summary>A Blue Decoration like Windows 10 Decoration wit tiny borders.&#xd;
+&#xd;
+Best Choice for Breeze :-)</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m167646-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/167646-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/167646-KDE-10Flat.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>New wave.</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=World-fly">World-fly</author>
+  <homepage>https://opendesktop.org/content/show.php?content=168619</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>53</rating>
+  <downloads>48</downloads>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/minimize.svgz</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/decoration.svg</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/metadata.desktop</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/close.svgz</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/restore.svgz</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/New_waverc</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/maximize.svgz</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//New_wave/</installedfile>
+  <installedfile>/home/kyle/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>168619</id>
+  <releasedate>2015-01-21</releasedate>
+  <summary>theme of the new wave is based on a new theme from KDE 5 with coloring of openSUSE 13.2</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m168619-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/168619-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/168619-New_wave.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

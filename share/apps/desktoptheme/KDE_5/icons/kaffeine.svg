@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3314"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kaffeine.svg">
+  <title
+     id="title3268">Tilain</title>
+  <defs
+     id="defs3316" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.757891"
+     inkscape:cx="32.509024"
+     inkscape:cy="20.82898"
+     inkscape:current-layer="svg3314"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="-1.8369095e-16,-1"
+       position="0,20"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1,4"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,12"
+       id="guide4128" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene#1">
+    <g
+       id="kaffeine"
+       transform="translate(28,12)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:none"
+         id="rect3015"
+         width="24"
+         height="24"
+         x="0"
+         y="0"
+         transform="translate(-28,-12)" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 21,3 1.84375,7.5625 3,12 l 0,9 19,0 0,-11 -10.71875,0 10.875,-2.5625 z M 20,4 20.84375,6.9375 4,11 21,11 21,20 4,20 4,11 3.15625,8.0625 z m -10,9 0,6 6,-3 z m 1,1.5 3,1.5 -3,1.5 z"
+         transform="translate(-28,-12)"
+         id="rect3786"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="m 4,11 0,9 17,0 0,-9 z m 6,2 6,3 -6,3 z"
+         id="rect3021"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc"
+         transform="translate(-28,-12)" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 20.000125,3.99975 3.156375,8.06225 4,11 20.84375,6.9375 z"
+         transform="translate(-28,-12)"
+         id="rect3002"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

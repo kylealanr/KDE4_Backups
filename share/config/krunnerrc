@@ -1,0 +1,11 @@
+[EdgePositions]
+Offset=0.5
+
+[General]
+PastQueries=atom,Telegram Desktop,Activity Settings,,konsole,System Settings,Konsole,System Bell,a,kwin --replace,kwin --rplace,Telegram,Yakuake,Energy Saving,system76-driver,Kontact,VirtualBox,KDE Connect
+
+[Interface]
+Size=550,500
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_kwin --rplace,1 services_kde4-yakuake.desktop,1 services_kcm_kdeconnect.desktop,3 services_kde4-konsole.desktop,2 services_powerdevilactivitiesconfig.desktop,1 services_chrome-clhhggbfdinjmjhajaheehoeibfljjno-Default.desktop,1 shell_kwin --replace,1 services_kde4-Kontact.desktop,1 services_powerdevilprofilesconfig.desktop,2 shell_system76-driver,5 services_atom.desktop,10 services_kde4-systemsettings.desktop,2 services_telegramdesktop.desktop,1 services_virtualbox.desktop,1 services_bell.desktop

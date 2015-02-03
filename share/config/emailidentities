@@ -1,0 +1,15 @@
+[$Version]
+update_info=kmail.upd:3.3-move-identities-to-own-file,kmail.upd:3.3-aegypten-emailidentities-split-sign-encr-keys
+
+[General]
+Default Identity=1369507721
+
+[Identity #0]
+Dictionary=English (United States of America)
+Disable Fcc=false
+Identity=Kyle Riedemann
+Image Location=
+Inline Signature=
+Name=Kyle Riedemann
+Signature Enabled=false
+uoid=1369507721

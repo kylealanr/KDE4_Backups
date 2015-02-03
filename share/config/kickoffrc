@@ -1,0 +1,14 @@
+[$Version]
+update_info=kubuntu-update-kickoff2.upd:kubuntu-update-kickoff
+
+[Favorites]
+FavoriteURLs=/usr/share/applications/google-chrome-beta.desktop,/usr/share/applications/firefox.desktop,/usr/share/applications/kde4/Kontact.desktop,/usr/share/applications/kde4/systemsettings.desktop,/usr/share/applications/kde4/dolphin.desktop,/usr/share/applications/kde4/ktp-contactlist.desktop
+
+[KRunner]
+loadAll=false
+
+[KRunner][PlasmaRunnerManager]
+pluginWhiteList=places,shell,services,bookmarks,recentdocuments,locations
+
+[RecentlyUsed]
+Applications=vlc.desktop,insync.desktop,powerdevilglobalconfig.desktop,google-chrome-beta.desktop,kde4-systemsettings.desktop

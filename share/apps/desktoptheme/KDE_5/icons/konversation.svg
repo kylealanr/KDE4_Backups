@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg3314"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="konversation.svg">
+  <title
+     id="title2992">Tilain</title>
+  <sodipodi:namedview
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview39"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:zoom="10.226696"
+     inkscape:cx="20.396504"
+     inkscape:cy="21.845055"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3314"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3784"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,20"
+       id="guide2996" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="23.404982,4"
+       id="guide2998" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3316" />
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Ebene">
+    <g
+       id="konversation">
+      <rect
+         width="24"
+         height="24"
+         x="0"
+         y="0"
+         id="rect3879"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 20 3 L 13 5 L 9 5 C 7.338 5 6 6.338 6 8 C 6 9.3053625 6.8405213 10.398166 8 10.8125 L 8 12 C 8 13.108 8.892 14 10 14 C 11.108 14 12 13.108 12 12 L 12 11 L 13 11 L 20 13 L 21 12 L 21 9.71875 C 21.596909 9.3734731 22 8.7419013 22 8 C 22 7.2580987 21.596909 6.6265269 21 6.28125 L 21 4 L 20 3 z M 10 14 L 6 14 L 6 9 L 2 9 L 2 20 L 3 21 L 7 18 L 14 18 L 14 14 L 10 14 z M 20 4 L 20 7 C 20.554 7 21 7.446 21 8 C 21 8.554 20.554 9 20 9 L 20 12 L 13 10 L 11 10 L 11 12.5 C 10.992158 12.971414 10.471278 13.35536 10 13.375 C 9.4734287 13.396947 8.99124 13.000436 9 12.5 L 9 10 C 8.875 10 8.765625 9.998047 8.65625 9.96875 C 7.7151132 9.806086 7 8.987615 7 8 C 7 7.012385 7.7151132 6.193914 8.65625 6.03125 C 8.7677004 6.01199 8.8830456 6 9 6 L 13 6 L 20 4 z M 3 10 L 5 10 L 5 15 L 13 15 L 13 17 L 7 17 L 3 20 L 3 10 z "
+         id="rect3005" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 20,4 13,6 9,6 C 8.8830456,6 8.7677004,6.01199 8.65625,6.03125 7.7151132,6.193914 7,7.012385 7,8 7,8.987615 7.7151132,9.806086 8.65625,9.96875 8.765625,9.998047 8.875,10 9,10 l 0,2.5 c -0.00876,0.500436 0.4734287,0.896947 1,0.875 0.471278,-0.01964 0.992158,-0.403586 1,-0.875 l 0,-2.5 2,0 7,2 0,-3 C 20.554,9 21,8.554 21,8 21,7.446 20.554,7 20,7 z m -17,6 0,10 4,-3 6,0 0,-2 -8,0 0,-5 z"
+         id="path3004"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccscscccscccccscccccccccc" />
+    </g>
+  </g>
+</svg>

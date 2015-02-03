@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3314"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="akonadi.svg">
+  <title
+     id="title3041">Tilain</title>
+  <defs
+     id="defs3316" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="29.219133"
+     inkscape:cx="4.140589"
+     inkscape:cy="11.505518"
+     inkscape:current-layer="svg3314"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="-1.8369095e-16,-1"
+       position="24,20"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,4"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,12"
+       id="guide4128" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene#1">
+    <g
+       id="akonadi">
+      <rect
+         y="-24"
+         x="0"
+         height="24"
+         width="24"
+         id="rect3023"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0,1,-1,0,0,0)" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 8.34375 2.78125 C 5.1966231 4.1833435 3 7.332271 3 11 L 2 11 C 2 16.522848 6.4771525 21 12 21 C 17.522847 21 22 16.522848 22 11 L 21 11 L 20 11 C 20 6.5817217 16.418278 3 12 3 C 10.872388 3 9.8162653 3.2341184 8.84375 3.65625 L 8.34375 2.78125 z M 12 4 C 15.865993 4 19 7.1340068 19 11 L 13 11 L 9.3125 4.5625 C 10.142715 4.2154779 11.043917 4 12 4 z M 8.03125 4.0625 L 12 11 L 4 11 C 4 8.1268946 5.535575 5.485996 8.03125 4.0625 z M 3.0625 12 L 20.9375 12 C 20.432578 16.492017 16.6269 20 12 20 C 7.373101 20 3.567422 16.492017 3.0625 12 z "
+         id="path2998" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 12 4 C 11.043917 4 10.142715 4.2154779 9.3125 4.5625 L 13 11 L 19 11 C 19 7.1340068 15.865993 4 12 4 z M 8.03125 4.0625 C 5.535575 5.485996 4 8.1268946 4 11 L 12 11 L 8.03125 4.0625 z M 3.0625 12 C 3.567422 16.492017 7.373101 20 12 20 C 16.6269 20 20.432578 16.492017 20.9375 12 L 3.0625 12 z "
+         id="path3790" />
+    </g>
+  </g>
+</svg>

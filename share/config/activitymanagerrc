@@ -1,0 +1,13 @@
+[activities]
+666f070b-1890-4130-96c9-e2c5812f6e3e=Development
+9630488e-bfa3-409a-9002-7237c1b3bf05=Internet
+bbb86ee2-cb3a-4723-b38a-876d78f86fbe=Notes
+
+[activities-icons]
+666f070b-1890-4130-96c9-e2c5812f6e3e=/home/kyle/Google Drive/Development/Icon Finder/monitor_code__editor.png
+9630488e-bfa3-409a-9002-7237c1b3bf05=/home/kyle/Google Drive/Development/Icon Finder/antenna.png
+bbb86ee2-cb3a-4723-b38a-876d78f86fbe=/home/kyle/Google Drive/Development/Icon Finder/database.png
+
+[main]
+currentActivity=9630488e-bfa3-409a-9002-7237c1b3bf05
+runningActivities=9630488e-bfa3-409a-9002-7237c1b3bf05,bbb86ee2-cb3a-4723-b38a-876d78f86fbe

@@ -1,0 +1,16 @@
+[GENERAL]
+delay=0
+filename[$e]=file://$HOME/Pictures/kde_development1.png
+includeDecorations=true
+includePointer=false
+mode=0
+
+[KFileDialog Settings]
+Height 1080=523
+Recent Files[$e]=$HOME/Pictures/dirty_kde.png,$HOME/Pictures/kde_development.png,$HOME/Pictures/clean_kde.png
+Recent URLs[$e]=$HOME/Pictures/
+Width 1920=960
+
+[MainWindow]
+Height 1080=499
+Width 1920=383

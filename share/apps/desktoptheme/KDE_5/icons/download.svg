@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3314"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="download.svg">
+  <title
+     id="title3270">Tilain</title>
+  <defs
+     id="defs3316" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.346652"
+     inkscape:cx="19.080051"
+     inkscape:cy="10.885743"
+     inkscape:current-layer="svg3314"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="-1.8369095e-16,-1"
+       position="24,20"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,4"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,12"
+       id="guide4128" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="12,26"
+       id="guide3809" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene#1">
+    <g
+       id="download">
+      <rect
+         ry="1"
+         rx="1"
+         y="0"
+         x="0"
+         height="24"
+         width="24"
+         id="rect3820"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 8 3 C 6.8954305 3 6 3.8954305 6 5 L 6 7 L 4 7 L 3 8 L 8 14 L 13 8 L 12 7 L 10 7 L 10 5 C 10 3.8954305 9.1045695 3 8 3 z M 8 4 C 8.5522847 4 9 4.4477153 9 5 L 9 8 L 12 8 L 8 13 L 4 8 L 7 8 L 7 5 C 7 4.4477153 7.4477153 4 8 4 z M 18 8 C 15.37 8 14.496015 9.2991107 14.1875 10.1875 C 13.490307 10.499976 13 11.186524 13 12 L 13 14 L 11 14 L 10 15 L 15 21 L 15.96875 19.84375 C 15.974253 19.86042 16 20 16 20 L 16 21 C 16 22.104569 16.895431 23 18 23 C 19.104569 23 20 22.104569 20 21 L 20 20 C 20 20 22 14 22 11 C 22 11 22 8 18 8 z M 18 9 C 21 9 21 11 21 11 C 21 14 19 19 19 19 L 17 19 C 17 19 15 14 15 11 C 15 11 15 9 18 9 z M 14.0625 11.78125 C 14.26291 14.155389 15.231521 17.525104 15.71875 19.09375 L 15 20 L 11 15 L 14 15 L 14 12 C 14 11.918782 14.044226 11.856854 14.0625 11.78125 z M 18 20 C 18.552285 20 19 20.447715 19 21 C 19 21.552285 18.552285 22 18 22 C 17.447715 22 17 21.552285 17 21 C 17 20.447715 17.447715 20 18 20 z "
+         id="path3012" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 8 4 C 7.4477153 4 7 4.4477153 7 5 L 7 8 L 4 8 L 8 13 L 12 8 L 9 8 L 9 5 C 9 4.4477153 8.5522847 4 8 4 z M 14.0625 11.78125 C 14.044226 11.856854 14 11.918782 14 12 L 14 15 L 11 15 L 15 20 L 15.71875 19.09375 C 15.231521 17.525104 14.26291 14.155389 14.0625 11.78125 z "
+         id="path3026" />
+      <path
+         sodipodi:nodetypes="cccczcsssss"
+         inkscape:connector-curvature="0"
+         style="fill:#db4439;fill-opacity:1;stroke:none"
+         d="m 15,11 c 0,3 2,8 2,8 l 2,0 c 0,0 2,-5 2,-8 0,0 0,-2 -3,-2 -3,0 -3,2 -3,2 z m 3,9 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z"
+         id="path7972" />
+    </g>
+  </g>
+</svg>

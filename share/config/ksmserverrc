@@ -1,0 +1,55 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10e0e0e5d2000142298215200000050730000
+clientId2=10e0e0e5d2000142282983100000019740013
+clientId3=10e0e0e5d2000142298150300000019560038
+clientId4=10e0e0e5d2000142298448900000093090006
+clientId5=10e0e0e5d2000142298448900000093090010
+count=5
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/kwin_10e0e0e5d2000142298215200000050730000_1422985249_277244
+discardCommand2[$e]=rm,$HOME/.kde/share/config/session/kmix_10e0e0e5d2000142282983100000019740013_1422985249_262479
+discardCommand3[$e]=rm,$HOME/.kde/share/config/session/yakuake_10e0e0e5d2000142298150300000019560038_1422985249_262478
+discardCommand4[$e]=
+discardCommand5[$e]=
+program1=kwin
+program2=/usr/bin/kmix
+program3=/usr/bin/yakuake
+program4=pulseaudio
+program5=insync.py
+restartCommand1=kwin,-session,10e0e0e5d2000142298215200000050730000_1422985249_277244
+restartCommand2=/usr/bin/kmix,-session,10e0e0e5d2000142282983100000019740013_1422985249_262479
+restartCommand3=/usr/bin/yakuake,-session,10e0e0e5d2000142298150300000019560038_1422985249_262478
+restartCommand4=
+restartCommand5=insync.py,-session,10e0e0e5d2000142298448900000093090010_1422985249_262950
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=kyle
+userId2=kyle
+userId3=kyle
+userId4=kyle
+userId5=kyle
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false
+wasWm5=false
+
+[SubSession: 2d705a6e-56a9-4ed8-b257-84b710d188be]
+count=0
+
+[SubSession: 666f070b-1890-4130-96c9-e2c5812f6e3e]
+count=0
+
+[SubSession: bbb86ee2-cb3a-4723-b38a-876d78f86fbe]
+count=0
+
+[SubSession: be643c6d-1c89-4d9b-9ece-42d38233ebd0]
+count=0

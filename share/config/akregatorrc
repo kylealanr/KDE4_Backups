@@ -1,0 +1,18 @@
+[Appearance]
+Fixed Font=Monospace
+Sans Serif Font=Ubuntu
+Serif Font=Ubuntu
+Standard Font=Ubuntu
+
+[General]
+ArticleListFeedHeaders=
+ArticleListGroupHeaders=
+SubscriptionListHeaders=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAADAAABAwAAAAMBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAIAAAEDAAAAAQAAAAAAAAAAAAAAAgAAAAA=
+
+[HTML Settings]
+Fonts=Ubuntu,Monospace,Ubuntu,Ubuntu,0
+MediumFontSize=9
+MinimumFontSize=7
+
+[View]
+Splitter 1 Sizes=265,766

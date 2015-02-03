@@ -1,0 +1,104 @@
+[BackgroundConfigDialog]
+Height 1050=719
+Height 1080=719
+Width 1680=744
+Width 1920=649
+
+[DownloadDialog Settings]
+Height 1080=400
+Width 1920=700
+
+[KFileDialog Settings]
+Height 1050=525
+Height 1080=523
+Recent Files[$e]=$HOME/Pictures/Wallpapers/low_poly_dog.jpg,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Cyan mountains.png,$HOME/Pictures/Wallpapers/osu_fountain.jpg,$HOME/Google Drive/Development/Icon Finder/antenna.png,$HOME/Google Drive/Development/Icon Finder/monitor_code__editor.png,$HOME/Google Drive/Development/Icon Finder/database.png,$HOME/Pictures/Wallpapers/Numix-Fragmented-Space-16x9.png
+Recent URLs[$e]=$HOME/Pictures/Wallpapers/,$HOME/Google Drive/Development/Icon Finder/,$HOME/Pictures/,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/
+Width 1680=840
+Width 1920=960
+
+[KPropertiesDialog]
+Height 1050=374
+Width 1680=366
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1920]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1920
+
+[PlasmaViews][1][Sizes][Horizontal1680]
+max=-1,-1
+min=-1,-1
+offset=0
+size=1920,35
+
+[PlasmaViews][1][Sizes][Horizontal1920]
+max=1920,35
+min=1920,35
+offset=0
+size=1920,35
+
+[PlasmaViews][1][Sizes][Horizontal3600]
+max=3600,35
+min=3600,35
+offset=0
+size=1920,35
+
+[Updates]
+performed=/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/02-kubuntu-menu-icon.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/04-add-presence.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-rename-plasma-nm.js,/usr/share/kubuntu-default-settings/kde4-profile/default/share/apps/plasma-desktop/updates/01-kubuntu-10.04.js,/usr/share/kde4/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/kde4/apps/plasma-desktop/updates/02-add-print-manager.js,/usr/share/kde4/apps/plasma-desktop/updates/systray-to-notifications-widget.js,/usr/share/kde4/apps/plasma-desktop/updates/50-renameKTpApplets.js,/usr/share/kde4/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js
+
+[ViewIds]
+1=1
+8=3
+
+[invokeAction]
+__file=
+actionId=1
+predicate=test-predicate-openinwindow.desktop
+
+[remove]
+Id=be643c6d-1c89-4d9b-9ece-42d38233ebd0
+__file=
+
+[resume]
+__file=
+
+[setCurrent]
+__file=
+
+[setIcon]
+Icon=/home/kyle/Google Drive/Development/Icon Finder/database.png
+__file=
+
+[setName]
+Name=Notes
+__file=
+
+[stop]
+__file=
+
+[stopSuppressingScreenPowerManagement]
+__file=
+cookie=-1
+
+[stopSuppressingSleep]
+__file=
+cookie=-1
+
+[suspend]
+__file=
+
+[toggleActivityManager]
+__file=
+
+[unmount]
+__file=
+
+[updateFreespace]
+__file=
+
+[userClosed]
+__file=

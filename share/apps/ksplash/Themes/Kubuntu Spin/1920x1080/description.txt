@@ -1,0 +1,22 @@
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+SCALE OFF
+
+
+ANIM_REL 1 CC 255 -15 LB 36 icon1_anim.png 50 0
+
+ANIM_REL 2 CC -145 60 RB 37 icon2_anim.png 40 1
+
+ANIM_REL 3 CC -80 60 RB 47 icon3_anim.png 40 1
+
+ANIM_REL 4 CC 0 60 RB 57 icon4_anim.png 40 1
+
+ANIM_REL 5 CC -26 60 LB 67 icon5_anim.png 40 1
+
+ANIM_REL 6 CC 135 60 RB 77 icon6_anim.png 40 1
+
+ANIM_REL 7 CC 190 60 RB 87 icon7_anim.png 40 1
+
+ANIM_REL 8 CC 165 60 LB 97 icon8_anim.png 40 1
+
+WAIT_STATE ready

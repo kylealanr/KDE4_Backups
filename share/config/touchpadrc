@@ -1,0 +1,9 @@
+[parameters]
+CircScrollDelta=5.73
+HorizScrollDelta=2.3
+HorizTwoFingerScroll=true
+MaxSpeed=3.50305657303126
+MaxTapMove=3
+MinSpeed=1.83319755474158
+VertEdgeScroll=false
+VertScrollDelta=1.7

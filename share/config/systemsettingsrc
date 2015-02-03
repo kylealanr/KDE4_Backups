@@ -1,0 +1,20 @@
+[DownloadDialog Settings]
+Height 1050=400
+Height 1080=400
+Width 1680=700
+Width 1920=700
+
+[KFileDialog Settings]
+Height 1080=523
+Recent Files[$e]=Hex.qtcurve,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Cyan mountains.png,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Cursors/Breeze/index.theme,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Color Scheme/FlatZephyr.colors,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/QtCurve/Flat_Zephyr.qtcurve,$HOME/Downloads/Hex-KDESuite/Hex.colors,$HOME/Downloads/Hex-KDESuite/Hex/Hex.qtcurve
+Recent URLs[$e]=$HOME/Downloads/Hex-KDESuite/Hex/,$HOME/Downloads/Hex-KDESuite/,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/QtCurve/,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Color Scheme/,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/Cursors/Breeze/,$HOME/Downloads/Flat Zephyr - KDE Plasma 5 look/
+Width 1920=960
+
+[MainWindow]
+Height 1050=649
+Height 1080=1081
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1680=1116
+Width 1920=1921

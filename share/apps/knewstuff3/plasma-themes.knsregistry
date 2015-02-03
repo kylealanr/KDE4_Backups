@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>openSUSElight</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Ov3rf10w">Ov3rf10w</author>
+  <homepage>https://opendesktop.org/content/show.php?content=168774</homepage>
+  <licence>1</licence>
+  <version>0.5</version>
+  <rating>50</rating>
+  <downloads>24</downloads>
+  <installedfile>/tmp/kde-kyle///168774-openSUSElight.tar.bz2</installedfile>
+  <id>168774</id>
+  <releasedate>2015-01-31</releasedate>
+  <summary>Default openSUSE 13.2 plasma theme.</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m168774-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/168774-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/168774-openSUSElight.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Helium</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mcder">mcder</author>
+  <homepage>https://opendesktop.org/content/show.php?content=125471</homepage>
+  <licence>15</licence>
+  <version>5.0.0</version>
+  <rating>86</rating>
+  <downloads>22368</downloads>
+  <installedfile>/tmp/kde-kyle///125471-Helium.tar.gz</installedfile>
+  <id>125471</id>
+  <releasedate>2014-08-03</releasedate>
+  <summary>Light theme for plasma desktop&#xd;
+&#xd;
+Tema Ligero para el escritorio de plasma&#xd;
+&#xd;
+translated with google translator&#xd;
+&#xd;
+please donate!!!&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>https://openDesktop.org/CONTENT/content-m1/m125471-1.png</preview>
+  <previewBig>https://openDesktop.org/CONTENT/content-pre1/125471-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/125471-Helium.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

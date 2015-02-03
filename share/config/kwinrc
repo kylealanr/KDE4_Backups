@@ -1,0 +1,35 @@
+[$Version]
+update_info=kwin_remove_effects.upd:kwin4.7_effects
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Number=1
+
+[Effect-BoxSwitch]
+TabBox=false
+TabBoxAlternative=false
+
+[Effect-Zoom]
+InitialZoom=1
+
+[Style]
+BorderSize=1
+ButtonsOnLeft=MS
+ButtonsOnRight=HIAX
+CustomButtonPositions=false
+PluginLib=kwin3_qtcurve
+ShowToolTips=true
+
+[SubSession: 666f070b-1890-4130-96c9-e2c5812f6e3e]
+active=-1
+count=0
+
+[SubSession: bbb86ee2-cb3a-4723-b38a-876d78f86fbe]
+active=-1
+count=0
+
+[TabBox]
+DesktopMode=1
+ShowTabBox=true

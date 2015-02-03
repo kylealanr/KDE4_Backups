@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg3314"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="konv_message.svg">
+  <title
+     id="title2992">Tilain</title>
+  <sodipodi:namedview
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview39"
+     showgrid="true"
+     borderlayer="true"
+     inkscape:zoom="14.462732"
+     inkscape:cx="5.9724004"
+     inkscape:cy="7.4831277"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3784"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,20"
+       id="guide2996" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="23.404982,4"
+       id="guide2998" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3316" />
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Ebene">
+    <g
+       id="konv_message">
+      <rect
+         width="24"
+         height="24"
+         x="0"
+         y="0"
+         id="rect3879"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 20,3 13,5 9,5 C 7.338,5 6,6.338 6,8 6,9.3053625 6.8405213,10.398166 8,10.8125 L 8,12 c 0,1.108 0.892,2 2,2 1.108,0 2,-0.892 2,-2 l 0,-1 1,0 1.03125,0.28125 C 14.13778,14.354125 16,20 16,20 l 0,1 c 0,1.104569 0.895431,2 2,2 1.104569,0 2,-0.895431 2,-2 l 0,-1 c 0,0 2,-6 2,-9 0,0 -0.02303,-0.811532 -0.59375,-1.59375 C 21.77144,9.0481801 22,8.556426 22,8 22,7.2580987 21.596909,6.6265269 21,6.28125 L 21,4 20,3 z M 10,14 6,14 6,9 2,9 l 0,11 1,1 4,-3 7,0 0,-4 -4,0 z M 20,4 20,7 c 0.554,0 1,0.446 1,1 0,0.277 -0.1005,0.538 -0.28125,0.71875 C 20.127,8.3031164 19.275676,8 18,8 15.23,8 14.386921,9.4277187 14.125,10.3125 L 13,10 l -2,0 0,2.5 c -0.0078,0.471414 -0.528722,0.85536 -1,0.875 C 9.4734287,13.396947 8.99124,13.000436 9,12.5 L 9,10 C 8.875,10 8.765625,9.998047 8.65625,9.96875 7.7151132,9.806086 7,8.987615 7,8 7,7.012385 7.7151132,6.193914 8.65625,6.03125 8.7677004,6.01199 8.8830456,6 9,6 l 4,0 7,-2 z m -2,5 c 3,0 3,2 3,2 0,3 -2,8 -2,8 l -2,0 c 0,0 -2,-5 -2,-8 0,0 0,-2 3,-2 z m -15,1 2,0 0,5 8,0 0,2 -6,0 -4,3 0,-10 z m 15,10 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
+         id="rect3005"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 20,4 13,6 9,6 C 8.8830456,6 8.7677004,6.01199 8.65625,6.03125 7.7151132,6.193914 7,7.012385 7,8 7,8.987615 7.7151132,9.806086 8.65625,9.96875 8.765625,9.998047 8.875,10 9,10 l 0,2.5 c -0.00876,0.500436 0.4734287,0.896947 1,0.875 0.471278,-0.01964 0.992158,-0.403586 1,-0.875 l 0,-2.5 2,0 1.125,0.3125 C 14.386921,9.4277187 15.23,8 18,8 19.275676,8 20.127,8.3031164 20.71875,8.71875 20.8995,8.538 21,8.277 21,8 21,7.446 20.554,7 20,7 l 0,-3 z m -17,6 0,10 4,-3 6,0 0,-2 -8,0 0,-5 -2,0 z"
+         id="path3004"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7972"
+         d="m 15,11 c 0,3 2,8 2,8 l 2,0 c 0,0 2,-5 2,-8 0,0 0,-2 -3,-2 -3,0 -3,2 -3,2 z m 3,9 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z"
+         style="fill:#db4439;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccczcsssss" />
+    </g>
+  </g>
+</svg>

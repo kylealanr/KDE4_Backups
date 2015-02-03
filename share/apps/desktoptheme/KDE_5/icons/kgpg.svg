@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3314"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="kgpg.svg">
+  <title
+     id="title2995">Tilain</title>
+  <defs
+     id="defs3316" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.661047"
+     inkscape:cx="-4.5213488"
+     inkscape:cy="11.708147"
+     inkscape:current-layer="svg3314"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,20"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24,4"
+       id="guide3088" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene#1">
+    <g
+       id="kgpg"
+       transform="translate(0,-8)">
+      <rect
+         transform="translate(0,8)"
+         y="0"
+         x="0"
+         height="24"
+         width="24"
+         id="rect3839"
+         style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:none"
+         d="M 12 3 C 8.676 3 6 5.676 6 9 L 6 10.1875 C 4.8405213 10.601834 4 11.694637 4 13 L 4 18 C 4 19.662 5.338 21 7 21 L 17 21 C 18.662 21 20 19.662 20 18 L 20 13 C 20 11.694637 19.159479 10.601834 18 10.1875 L 18 9 C 18 5.676 15.324 3 12 3 z M 12 4 C 14.761424 4 17 6.2385763 17 9 L 17 11 C 18.108 11 19 11.892 19 13 L 19 18 C 19 19.108 18.108 20 17 20 L 7 20 C 5.892 20 5 19.108 5 18 L 5 13 C 5 11.892 5.892 11 7 11 L 7 9 C 7 6.2385763 9.2385761 4 12 4 z M 12 6 C 10.343146 6 9 7.343146 9 9 L 9 11 L 15 11 L 15 9 C 15 7.343146 13.656854 6 12 6 z M 12 7 C 13.108 7 14 7.892 14 9 L 14 10 L 10 10 L 10 9 C 10 7.892 10.892 7 12 7 z M 12 13 C 10.895431 13 10 13.895431 10 15 C 10 15.739604 10.403104 16.372707 11 16.71875 L 11 18 C 11 18.554 11.446 19 12 19 C 12.554 19 13 18.554 13 18 L 13 16.71875 C 13.596896 16.372707 14 15.739604 14 15 C 14 13.895431 13.104569 13 12 13 z M 12 14 C 12.552285 14 13 14.447715 13 15 C 13 15.552285 12.552285 16 12 16 C 11.447715 16 11 15.552285 11 15 C 11 14.447715 11.447715 14 12 14 z "
+         transform="translate(0,8)"
+         id="rect3005" />
+      <path
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+         d="M 12 4 C 9.2385761 4 7 6.2385763 7 9 L 7 11 C 5.892 11 5 11.892 5 13 L 5 18 C 5 19.108 5.892 20 7 20 L 17 20 C 18.108 20 19 19.108 19 18 L 19 13 C 19 11.892 18.108 11 17 11 L 17 9 C 17 6.2385763 14.761424 4 12 4 z M 12 6 C 13.656854 6 15 7.343146 15 9 L 15 11 L 9 11 L 9 9 C 9 7.343146 10.343146 6 12 6 z M 12 13 C 13.104569 13 14 13.895431 14 15 C 14 15.739604 13.596896 16.372707 13 16.71875 L 13 18 C 13 18.554 12.554 19 12 19 C 11.446 19 11 18.554 11 18 L 11 16.71875 C 10.403104 16.372707 10 15.739604 10 15 C 10 13.895431 10.895431 13 12 13 z "
+         transform="translate(0,8)"
+         id="rect3008" />
+    </g>
+  </g>
+</svg>

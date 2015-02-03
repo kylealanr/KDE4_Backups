@@ -1,0 +1,62 @@
+[$Version]
+update_info=kubuntu-fix-kwin-default-size.upd:kubuntu-fix-kwin-default-size
+
+[1]
+Description=Application settings for atom
+activity=bbb86ee2-cb3a-4723-b38a-876d78f86fbe
+activityrule=2
+clientmachine=guppykub
+clientmachinematch=0
+types=4294967295
+wmclass=atom
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Application settings for google-chrome-beta
+activity=9630488e-bfa3-409a-9002-7237c1b3bf05
+activityrule=4
+clientmachine=guppykub
+clientmachinematch=0
+types=4294967295
+wmclass=google-chrome-beta (/home/kyle/.config/google-chrome-beta) google-chrome-beta
+wmclasscomplete=true
+wmclassmatch=1
+
+[3]
+Description=(Default) Disable focus stealing prevention for XV
+fsplevel=0
+fsplevelrule=2
+types=4294967295
+wmclass=^xv .*
+wmclasscomplete=true
+wmclassmatch=3
+
+[Directories-default]
+prefixes[$d]
+
+[Emoticons]
+emoticonsTheme[$d]
+
+[General]
+BrowserApplication[$d]
+XftHintStyle[$d]
+count=3
+desktopFont[$d]
+font[$d]
+menuFont[$d]
+smallestReadableFont[$d]
+taskbarFont[$d]
+toolBarFont[$d]
+
+[Notification Messages]
+:confirmNewSession[$d]
+
+[PreviewSettings]
+UseFileThumbnails[$d]
+
+[Toolbar style]
+ToolButtonStyle[$d]
+
+[WM]
+activeFont[$d]
